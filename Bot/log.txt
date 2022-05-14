@@ -1,0 +1,110 @@
+|Day 16 17 : 13 : 8|
+  Starting...
+
+|Day 24 11 : 26 : 1|
+  Starting...
+
+|Day 24 11 : 29 : 38|
+  Starting...
+
+|Day 24 11 : 36 : 14|
+  Starting...
+
+|Day 24 11 : 40 : 47|
+  Starting...
+
+|Day 24 11 : 42 : 3|
+  Starting...
+
+|Day 24 11 : 46 : 58|
+  Starting...
+
+|Day 24 11 : 47 : 27|
+  Starting...
+
+|Day 24 12 : 9 : 22|
+  Starting...
+
+|Day 24 12 : 10 : 42|
+  Starting...
+
+|Day 24 12 : 12 : 23|
+  Starting...
+
+|Day 24 12 : 16 : 48|
+  Starting...
+
+|Day 24 13 : 9 : 5|
+  Starting...
+
+|Day 24 13 : 19 : 53|
+  Starting...
+
+|Day 24 13 : 24 : 55|
+  Starting...
+
+|Day 24 13 : 34 : 54|
+  Starting...
+
+|Day 24 13 : 38 : 15|
+  Starting...
+
+|Day 4 15 : 27 : 13|
+  Starting...
+
+|Day 6 15 : 25 : 26|
+  Starting...
+
+|Day 6 15 : 25 : 39|
+  Starting...
+
+|Day 6 22 : 14 : 17|
+  Starting...
+
+|Day 7 8 : 19 : 9|
+  Starting...
+
+|Day 7 8 : 20 : 49|
+  Starting...
+
+|Day 7 8 : 20 : 59|
+  Starting...
+
+|Day 7 8 : 26 : 16|
+  Starting...
+
+|Day 7 15 : 58 : 47|
+  Starting...
+
+AlexZapl#8528:start
+AlexZapl#8528:fox
+AlexZapl#8528:cat
+AlexZapl#8528:start
+AlexZapl#8528:CMD_help
+AlexZapl#8528:start
+AlexZapl#8528:CMD_help
+AlexZapl#8528:AZ_help
+AlexZapl#8528:hello
+AlexZapl#8528:spam
+AlexZapl#8528:fox
+AlexZapl#8528:fox
+AlexZapl#8528:CMD_help
+AlexZapl#8528:cat
+AlexZapl#8528:dog
+AlexZapl#8528:CMD_help
+AlexZapl#8528:CMD_help
+AlexZapl#8528:CMD_help
+AlexZapl#8528:MOD_help
+AlexZapl#8528:CMD_help
+AlexZapl#8528:hello
+AlexZapl#8528:spam
+AlexZapl#8528:fox
+AlexZapl#8528:CMD_help
+AlexZapl#8528:cat
+AlexZapl#8528:MOD_help
+AlexZapl#8528:rules
+AlexZapl#8528:annouce Сегодня
+AlexZapl#8528:annouce ('Сегодня', 'у', 'Александра', 'защита', 'Дискорд', 'бота', None, None, None)
+AlexZapl#8528:annouce СегодняуАлександразащитаДискордбота
+AlexZapl#8528:annouce СегодняуАлександразащитаДискордбота
+AlexZapl#8528:annouce Сегодня у Александра защита Дискорд бота   
